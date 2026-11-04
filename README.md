@@ -101,3 +101,13 @@ jupyter notebook notebooks/student_dataset.ipynb
 -Attendance percentage, assignment completion rate, and semester exam scores serve as the strongest predictors for placement success.
 
 -Decision Tree visualization provides an interpretable decision path for academic counseling.
+
+---
+
+## 👤 Author
+- **Aniket Yadav**
+- GitHub: [@Yadavaniket19](https://github.com/Yadavaniket19)
+
+---
+⭐️ If you found this project helpful, please consider giving it a star!
+
